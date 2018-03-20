@@ -6,7 +6,7 @@
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_default.png",
         "displayName": "Claymore", 
         "name": "magelogi/qnap-claymore-dual-eth-miner", 
-        "version": "Cuda9.1-Claymore10.0", 
+        "version": "gpu", 
         "location": "https://hub.docker.com/r/magelogi/qnap-claymore-dual-eth-miner/", 
         "type": "ai",
         "qcsVersion": "1.8"
